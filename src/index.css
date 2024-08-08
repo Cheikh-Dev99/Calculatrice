@@ -1,0 +1,15 @@
+/* Google-font */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Tailwindcss */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Style */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* ******************************** */
